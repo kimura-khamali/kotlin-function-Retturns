@@ -1,5 +1,5 @@
 
-//Assignment 2: Functions
+//Functions
 fun main() {
     text(test = "Ada")
     nameOf(num1 =26,
