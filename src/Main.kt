@@ -1,13 +1,13 @@
 
 //Assignment 2: Functions
 //Create and invoke a function that takes in a name and prints out “Hello ${name}” e.g given “Ada” it will print out “Hello Ada”  (2 points)
-/*fun main() {
-    name(name: "Ada")
+fun main() {
+    name()
 }
-fun name(name: String){
-
+fun name(){
+var name = "Ada"
     println("Hello ${name}")
-}*/
+}
 //Create and invoke a function that given 2 numbers returns the remainder of their division (3 points)
 
 /*fun main(
@@ -32,11 +32,11 @@ fun sumAll(num1: Int ,num2: Int ,num3: Int ,num4: Int):Int {
 }*/
 
 //Create and invoke a function that prints out an interesting fact about yourself (2 points)
-fun main() {
+/*fun main() {
  interestingFact(set = "I love drawing and hiking")
 }
 fun interestingFact(set: String) {
     println(set)
-}
+}*/
 
 
