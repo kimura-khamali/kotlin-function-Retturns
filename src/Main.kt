@@ -32,11 +32,11 @@ fun sumAll(num1: Int ,num2: Int ,num3: Int ,num4: Int):Int {
 }*/
 
 //Create and invoke a function that prints out an interesting fact about yourself (2 points)
-/*fun main() {
+fun main() {
  interestingFact(set = "I love drawing and hiking")
 }
 fun interestingFact(set: String) {
     println(set)
-}*/
+}
 //Submit a github link.
 
