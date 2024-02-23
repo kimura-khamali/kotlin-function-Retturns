@@ -2,11 +2,11 @@
 //Assignment 2: Functions
 //Create and invoke a function that takes in a name and prints out “Hello ${name}” e.g given “Ada” it will print out “Hello Ada”  (2 points)
 fun main() {
-    name()
+    text(test = "Ada")
 }
-fun name(){
-var name = "Ada"
-    println("Hello ${name}")
+fun text(test: String){
+var text = "Hello ${test}"
+    println(text)
 }
 //Create and invoke a function that given 2 numbers returns the remainder of their division (3 points)
 
